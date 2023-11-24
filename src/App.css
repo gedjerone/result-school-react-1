@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-neutral-950 text-neutral-300 p-24;
+    font-family: "Roboto", sans-serif;
+  }
+  #root {
+    @apply bg-neutral-900 m-auto flex flex-col w-fit items-center justify-center p-8 rounded-xl;
+  }
+  .btn__equals {
+    @apply bg-green-600 col-start-2 col-end-5;
+  }
+  .btn__action {
+    @apply bg-orange-700;
+  }
+  .btn__clear {
+    @apply bg-blue-700 col-start-1 col-end-3;
+  }
+}
