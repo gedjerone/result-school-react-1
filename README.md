@@ -1,5 +1,5 @@
 # [Result School] Simple Calculator App
-*[Build](https://gedjerone.github.io/result-school-react-1/)*
+*[Билд доступен по ссылке](https://gedjerone.github.io/result-school-react-1/)*
 
 ## Dependencies
 1. [React](https://react.dev/)
