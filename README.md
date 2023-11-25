@@ -1,4 +1,5 @@
 # [Result School] Simple Calculator App
+*[Build](https://gedjerone.github.io/result-school-react-1/)*
 
 ## Dependencies
 1. [React](https://react.dev/)
@@ -10,3 +11,4 @@
 ## Comments
 1. Времени сейчас совсем мало, так что не без говнокода
 2. Тут сразу и само задание и доп
+
