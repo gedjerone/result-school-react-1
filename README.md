@@ -1,3 +1,4 @@
+[![Status](https://github.com/gedjerone/result-school-react-1/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/gedjerone/result-school-react-1/actions/workflows/main.yml)
 # [Result School] Simple Calculator App
 *[Билд доступен по ссылке](https://gedjerone.github.io/result-school-react-1/)*
 
